@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Lakshay yadav aLakshay Yadav<br>Passionate Web Developer | Learning Blockchain<br>Building projects, learning in public, and pushing code daily 🚀</h3>
+<h3 align="left">Hi 👋! My name is Lakshay yadav i am a <br>Passionate Web Developer | Learning Blockchain<br>Building projects, learning in public, and pushing code daily 🚀</h3>
 
 ###
 
