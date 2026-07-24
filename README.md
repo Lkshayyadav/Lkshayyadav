@@ -133,21 +133,15 @@ Building scalable web applications with <b>TypeScript, React, Node.js & MongoDB<
 - AI & Agentic Applications
 
 ---
-
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lkshayyadav&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lkshayyadav&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Lkshayyadav&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lkshayyadav&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Lkshayyadav&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://streak-stats.demolab.com?user=Lkshayyadav&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -155,13 +149,10 @@ Building scalable web applications with <b>TypeScript, React, Node.js & MongoDB<
 ## 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="[https://github-profile-trophy.vercel.app/?username=Lkshayyadav&theme=tokyonight&no-frame=true&row=1&column=7](https://github-profile-trophy.vercel.app/?username=Lkshayyadav&theme=tokyonight&no-frame=true&row=1&column=7)"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Lkshayyadav&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" />
 </p>
 
 ---
-
 ## 📈 Contribution Graph
 
 <p align="center">
