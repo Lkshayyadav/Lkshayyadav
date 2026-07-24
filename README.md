@@ -1,51 +1,189 @@
-<h3 align="left">Hi 👋! My name is Lakshay yadav i am a <br>Aspiring Full Stack Developer | Learning in Public | Building Skills & Connections<br>, and pushing code daily 🚀</h3>
+<h1 align="center">Hi 👋, I'm Lakshay Yadav</h1>
 
-###
+<h3 align="center">
+🚀 Full Stack Developer • Backend Enthusiast • Open Source Learner
+</h3>
 
-<div align="center">
-</div>
+<p align="center">
+Building scalable web applications with <b>TypeScript, React, Node.js & MongoDB</b><br>
+🌱 Learning in Public • Shipping Projects • Growing Every Day
+</p>
 
-###
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Lkshayyadav&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+---
 
-###
+<img align="right" height="220" src="https://i.imgflip.com/65efzo.gif" />
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+## 👨‍💻 About Me
 
-###
+- 🎓 B.Tech CSE Student (2023–2027)
+- 💻 Passionate Full Stack Developer
+- 🚀 Currently building scalable web applications
+- 🌱 Exploring Backend Engineering, System Design & AI
+- 📚 Learning Redis, Docker, Microservices & Cloud
+- 🎯 Looking for Software Engineering Internships & Full-Time Opportunities
+- ⚡ I enjoy building products and sharing my learning journey publicly
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="lakshayyadav1010@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/lakshay-yadav-7141532a9/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/LakshayYadav21" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-  </a>
-</div>
+---
 
-###
+## 🌐 Connect With Me
 
-<br clear="both">
+<p align="left">
 
-<img src="https://raw.githubusercontent.com/Lkshayyadav/Lkshayyadav/output/snake.svg" alt="Snake animation" />
+<a href="mailto:lakshayyadav1010@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-###
+<a href="https://portfolio-theta-mocha-62.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/lakshay-yadav-7141532a9/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Lkshayyadav" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://x.com/LakshayYadav21" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|----------|-------------|
+| 🚀 **CEX** | Full Stack Cryptocurrency Exchange with real-time trading engine |
+| 💼 **JobTrack** | Job Application Tracker with Kanban Board & Analytics |
+| 🧠 **Second Brain** | Knowledge Management Platform with Collections & Search |
+| 🤖 **Elevate AI** | AI-powered Interview Preparation Platform |
+
+---
+
+## 🌱 Currently Learning
+
+- Backend Architecture
+- Redis
+- Docker
+- Microservices
+- System Design
+- AI & Agentic Applications
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Lkshayyadav&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lkshayyadav&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Lkshayyadav&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Lkshayyadav&theme=tokyonight&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lkshayyadav&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Lkshayyadav/Lkshayyadav/output/snake.svg" alt="Snake animation"/>
+
+</p>
+
+---
+
+<h3 align="center">
+
+💡 <i>"Consistency beats intensity. Build. Learn. Share. Repeat."</i> 🚀
+
+</h3>
