@@ -156,7 +156,7 @@ Building scalable web applications with <b>TypeScript, React, Node.js & MongoDB<
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Lkshayyadav&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="[https://github-profile-trophy.vercel.app/?username=Lkshayyadav&theme=tokyonight&no-frame=true&row=1&column=7](https://github-profile-trophy.vercel.app/?username=Lkshayyadav&theme=tokyonight&no-frame=true&row=1&column=7)"/>
 
 </p>
 
