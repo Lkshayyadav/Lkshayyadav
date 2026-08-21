@@ -1,93 +1,151 @@
 <h1 align="center">Hi 👋, I'm Lakshay Yadav</h1>
 
 <h3 align="center">
-🚀 Full-Stack & Mobile App Engineer • Real-Time Systems • Open Source
+🚀 Full Stack Developer • Backend Enthusiast • Open Source Learner
 </h3>
 
 <p align="center">
-Engineering scalable web platforms and high-performance cross-platform mobile applications.<br>
-Specializing in <b>TypeScript, Next.js, React Native, WebSockets, Node.js & PostgreSQL</b>.
+Building scalable web applications with <b>TypeScript, React, Node.js & MongoDB</b><br>
+🌱 Learning in Public • Shipping Projects • Growing Every Day
 </p>
 
 <p align="center">
-  <a href="https://lakshayyadav.dev">
-    <img src="https://img.shields.io/badge/Portfolio-lakshayyadav.dev-0052FF?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/lakshay-yadav-7141532a9/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/LakshayYadav21">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  <a href="mailto:lakshayyadav1010@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<img src="https://komarev.com/ghpvc/?username=Lkshayyadav&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
 
+<img align="right" height="220" src="https://i.imgflip.com/65efzo.gif" />
+
 ## 👨‍💻 About Me
 
-- 🎓 **Education**: B.Tech Computer Science & Engineering (2023–2027)
-- 💼 **Experience**: React Native / Full Stack Developer Intern at **Validd**
-- 📱 **Mobile & Web**: React Native, Expo, Next.js, TypeScript, Tailwind CSS
-- ⚡ **Backend & Real-Time**: In-Memory Order Matching Engines, WebSockets, Node.js, Express.js, REST APIs
-- 🗄️ **Databases & Cloud**: PostgreSQL, Supabase, Redis, Prisma ORM, MongoDB, Docker, Render, Vercel
-- 📊 **Production Telemetry**: PostHog, Metabase, Strapi CMS, OneSignal Push Notifications
-- 🎯 **Looking for**: Software Engineering & Full-Stack / Mobile Developer Roles
+- 🎓 B.Tech CSE Student (2023–2027)
+- 💻 Passionate Full Stack Developer
+- 🚀 Currently building scalable web & mobile applications
+- 🌱 Exploring Backend Engineering, System Design & AI
+- 📚 Learning Redis, Docker, Microservices & Cloud
+- 🎯 Looking for Software Engineering Internships & Full-Time Opportunities
+- ⚡ I enjoy building products and sharing my learning journey publicly
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="mailto:lakshayyadav1010@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://lakshayyadav.dev" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/lakshay-yadav-7141532a9/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Lkshayyadav" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://x.com/LakshayYadav21" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Stack | Description | Links |
-|:---|:---|:---|:---:|
-| ⚡ **CEX Platform** | React Native, Expo, Next.js, Node.js, Redis, PostgreSQL, WebSockets | Full-stack centralized cryptocurrency exchange with in-memory matching engine (<0.4ms latency), live 8-timeframe TradingView charts, and real-time Binance WebSocket stream. | [Web & Mobile](https://github.com/Lkshayyadav/CEX) |
-| 💼 **JobTrack** | React Native, Expo, TypeScript, Express, MongoDB, REST APIs | Full-stack SaaS job search & application tracker with cross-platform mobile app, Kanban pipelines, and interview reminders. | [Code](https://github.com/Lkshayyadav/JOB-TRACKER) |
-| 🧠 **Brainly (Second Brain)** | React, TypeScript, Node.js, PostgreSQL, Tailwind | Premium digital workspace to capture, tag, search, and organize YouTube videos, GitHub repos, and PDF documents. | [Code](https://github.com/Lkshayyadav/Second-brain) |
-| 🤖 **ElevateAI** | Next.js, TypeScript, OpenAI API, Tailwind CSS | Intelligent recruitment & interview preparation platform with automated job specification analysis and review tracks. | [Code](https://github.com/Lkshayyadav/ElevateAI) |
-| 🔍 **RepoChecker** | Node.js, TypeScript, GitHub API, Gemini AI | Instant GitHub repository insight engine with automated architectural reviews and metrics visualization. | [Code](https://github.com/Lkshayyadav/GitHubWatcher) |
+| Project | Description |
+|----------|-------------|
+| 🚀 **CEX** | Full Stack Cryptocurrency Exchange with real-time trading engine & mobile app |
+| 💼 **JobTrack** | Job Application Tracker with Kanban Board & Analytics |
+| 🧠 **Second Brain** | Knowledge Management Platform with Collections & Search |
+| 🤖 **Elevate AI** | AI-powered Interview Preparation Platform |
 
 ---
 
-## 🛠️ Skills & Technologies
+## 🌱 Currently Learning
 
-<p align="left">
-  <!-- Mobile & Frontend -->
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <br>
-  <!-- Backend & Realtime -->
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma_ORM-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
-  <br>
-  <!-- Production Tools -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostHog-000000?style=for-the-badge&logo=posthog&logoColor=white" />
-  <img src="https://img.shields.io/badge/Strapi_CMS-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-</p>
+- Backend Architecture
+- Redis
+- Docker
+- Microservices
+- System Design
+- AI & Agentic Applications
 
 ---
+
+## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lkshayyadav&label=Profile%20Views&color=0052FF&style=flat-square" alt="Profile Views" />
+
+<img src="https://raw.githubusercontent.com/Lkshayyadav/Lkshayyadav/output/snake.svg" alt="Snake animation"/>
+
 </p>
 
+---
+
 <h3 align="center">
+
 💡 <i>"Consistency beats intensity. Build. Learn. Share. Repeat."</i> 🚀
+
 </h3>
