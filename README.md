@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lakshay Yadav</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer • Backend Enthusiast • Open Source Learner
+🚀 Full Stack & Mobile Developer • Backend Enthusiast • Open Source Learner
 </h3>
 
 <p align="center">
-Building scalable web applications with <b>TypeScript, React, Node.js & MongoDB</b><br>
+Building scalable web & mobile applications with <b>TypeScript, React Native, Next.js, Node.js & PostgreSQL</b><br>
 🌱 Learning in Public • Shipping Projects • Growing Every Day
 </p>
 
@@ -20,12 +20,13 @@ Building scalable web applications with <b>TypeScript, React, Node.js & MongoDB<
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech CSE Student (2023–2027)
-- 💻 Passionate Full Stack Developer
-- 🚀 Currently building scalable web & mobile applications
-- 🌱 Exploring Backend Engineering, System Design & AI
-- 📚 Learning Redis, Docker, Microservices & Cloud
+- 💻 Passionate Full Stack & Mobile Developer
+- 🚀 Building scalable web platforms & React Native mobile apps
+- ⚡ Engineering in-memory matching engines & real-time WebSocket pipelines
+- 🌱 Exploring Backend Engineering, System Design & Cloud Architecture
+- 📚 Learning Redis, Docker, Microservices & Distributed Caching
 - 🎯 Looking for Software Engineering Internships & Full-Time Opportunities
-- ⚡ I enjoy building products and sharing my learning journey publicly
+- 💡 I enjoy building impactful products and sharing my learning journey publicly
 
 ---
 
@@ -61,10 +62,10 @@ Building scalable web applications with <b>TypeScript, React, Node.js & MongoDB<
 
 <p align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
 <img width="10"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
 <img width="10"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
@@ -79,13 +80,22 @@ Building scalable web applications with <b>TypeScript, React, Node.js & MongoDB<
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40"/>
 <img width="10"/>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg" height="40"/>
 <img width="10"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
 <img width="10"/>
 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" height="40"/>
+<img width="10"/>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" height="40"/>
+<img width="10"/>
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40"/>
+<img width="10"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
 <img width="10"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40"/>
@@ -95,12 +105,6 @@ Building scalable web applications with <b>TypeScript, React, Node.js & MongoDB<
 <img width="10"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
-<img width="10"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
 <img width="10"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40"/>
@@ -116,21 +120,19 @@ Building scalable web applications with <b>TypeScript, React, Node.js & MongoDB<
 
 | Project | Description |
 |----------|-------------|
-| 🚀 **CEX** | Full Stack Cryptocurrency Exchange with real-time trading engine & mobile app |
-| 💼 **JobTrack** | Job Application Tracker with Kanban Board & Analytics |
-| 🧠 **Second Brain** | Knowledge Management Platform with Collections & Search |
-| 🤖 **Elevate AI** | AI-powered Interview Preparation Platform |
+| 🚀 **CEX** | Full Stack Cryptocurrency Exchange with in-memory matching engine, WebSocket feeds & React Native mobile app |
+| 💼 **JobTrack** | SaaS Job Application Tracker with Kanban Board, Analytics & Mobile App |
+| 🧠 **Second Brain** | Knowledge Management Platform with Collections, Tagging & Search |
+| 🤖 **Elevate AI** | AI-powered Recruitment & Interview Preparation Platform |
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Learning & Exploring
 
-- Backend Architecture
-- Redis
-- Docker
-- Microservices
-- System Design
-- AI & Agentic Applications
+- In-Memory Matching Engines & High-Frequency WebSockets
+- React Native Architecture & Mobile Performance Optimization
+- System Design, Redis Caching & Distributed Microservices
+- Scalable Database Schemas & Event-Driven Architecture
 
 ---
 
